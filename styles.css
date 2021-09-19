@@ -1,0 +1,23 @@
+/*
+    Big J's Deep Dish Pizza
+    Style Sheet
+    Filename: styles.css
+    Author: Matt Brundage II
+    Date: 9/19/21
+    HTML5 and CSS3 Illustrated
+    Unit C, Skills Review
+*/
+
+article {
+    text-align: center;
+ }
+ #tagline {
+    text-align: right;
+ }
+ .contact {
+    text-align: right;
+ }
+ header, footer {
+    background-color: black;
+    color: red;
+ }
